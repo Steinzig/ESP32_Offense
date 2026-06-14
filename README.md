@@ -9,6 +9,7 @@ legislation in your country.
 The author assumes no responsibility for any misuse or damage caused by this tool.
 By using this project, you agree to use it ethically and legally.
 
+
  APPLICATIONS
 - Truth or Dare bottle spinner, with a D8 dice.
 - Radio Jammer (Bluetooth & WiFi)
