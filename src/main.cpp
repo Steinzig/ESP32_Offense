@@ -69,7 +69,7 @@ static const int MENU_COUNT = sizeof(MENU) / sizeof(MENU[0]);
 static int menuIndex = 0;
 
 // ═══════════════════════════════════════════════════════════════════════════
-//  DRAW MENU//  Layout (32px tall screen)://    slot 0 (prev) – textSize 1, y=0,  height 8  – unselected, small//    slot 1 (curr) – textSize 2, y=10, height 16 – selected, large, inverted//    slot 2 (next) – textSize 1, y=26, height 8  – unselected, small
+//  DRAW MENU//  Layout (32px tall screen)://   
 // ═══════════════════════════════════════════════════════════════════════════
 
 static void drawMenu()
